@@ -6,11 +6,9 @@ Node.js, express, sockets, sequelize,
 
 ## Screenshot:
 ![screenshot](images/5.jpg)
-![screenshot](images/5.jpg)
 
 ## Getting Started
-npm intall (for node modules)
-npm start
+npm intall (for node modules) and npm start
 
 ## Authors
 Tal Diamant-Sabag
